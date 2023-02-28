@@ -1,5 +1,12 @@
 ![gBxP6oJ](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif)
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 <br>
 
 # Hi, I'm Sondes!
